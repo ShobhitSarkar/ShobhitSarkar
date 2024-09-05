@@ -13,10 +13,6 @@ I'm a passionate developer interested in AI / Machine Learning / UI/UX / Front-E
 
 </details>
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShobhitSarkar&show_icons=true&theme=radical)
-
 ## 💼 Professional Experience
 <details>
 <summary>🖥️ Student Software Engineer at John Deere</summary>
