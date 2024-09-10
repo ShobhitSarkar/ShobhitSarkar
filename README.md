@@ -11,10 +11,9 @@ I'm a passionate developer interested in AI / Machine Learning / UI/UX / Front-E
 - 🗄️ Databases: mySQL, MongoDB
 - 🔧 Tools: Github, Docker, JIRA, Confluence, Conda, Linux
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShobhitSarkar&layout=compact)
-
-
 </details>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShobhitSarkar&layout=compact)
 
 ## 💼 Professional Experience
 <details>
