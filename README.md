@@ -9,7 +9,10 @@ I'm a passionate developer interested in AI / Machine Learning / UI/UX / Front-E
 - 💻 Languages: Python, Java, JavaScript, HTML, CSS
 - 🌐 Web Technologies and Frameworks: React, Redux, TensorFlow, Puppeteer, Boostrap, PyTorch 
 - 🗄️ Databases: mySQL, MongoDB
-- 🔧 Tools: Github, Docker, JIRA, Confluence, Conda, Linux 
+- 🔧 Tools: Github, Docker, JIRA, Confluence, Conda, Linux
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShobhitSarkar&layout=compact)
+
 
 </details>
 
