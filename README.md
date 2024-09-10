@@ -13,7 +13,6 @@ I'm a passionate developer interested in AI / Machine Learning / UI/UX / Front-E
 
 </details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShobhitSarkar&layout=compact)
 
 ## 💼 Professional Experience
 <details>
