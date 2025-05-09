@@ -61,7 +61,8 @@ I am always interested in collaborating - if you want to hire me or work on some
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shobhtitsarkar0802@gmail.com)](mailto:shobhitsarkar0802@gmail.coml@example.com)
 
 # Contributions
-![Yearly Contributions](https://github.com/ShobhitSarkar/ShobhitSarkar/blob/main/metrics.svg)
+![Metrics](https://raw.githubusercontent.com/ShobhitSarkar/ShobhitSarkar/main/metrics.svg)
+
 
 
 
