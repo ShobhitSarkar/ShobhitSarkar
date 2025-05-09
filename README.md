@@ -60,8 +60,6 @@ I am always interested in collaborating - if you want to hire me or work on some
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourProfile/)](https://www.linkedin.com/in/ShobhitSarkar/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shobhtitsarkar0802@gmail.com)](mailto:shobhitsarkar0802@gmail.coml@example.com)
 
-# Contributions
-![Metrics](https://raw.githubusercontent.com/ShobhitSarkar/ShobhitSarkar/main/metrics.svg)
 
 
 
