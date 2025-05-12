@@ -66,10 +66,5 @@ I am always interested in collaborating - if you want to hire me or work on some
   <img src="./metrics.plugin.isocalendar.svg" alt="GitHub Isometric Calendar">
 </p>
 
-<p align="center">
-  <img src="https://github.com/ShobhitSarkar/ShobhitSarkar/blob/generated/metrics.svg"/>
-</p>
-
-
 
 ⭐️ From [ShobhitSarkar](https://github.com/YourUsername)
