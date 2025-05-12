@@ -62,9 +62,10 @@ I am always interested in collaborating - if you want to hire me or work on some
 
 ______
 
-<p align='center'>
-  ![GitHub Isometric Calendar](./metrics.plugin.isocalendar.svg)
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.svg" alt="GitHub Isometric Calendar">
 </p>
+
 
 
 
