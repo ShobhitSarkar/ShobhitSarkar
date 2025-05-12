@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule updates (every day at midnight)
   schedule: [{cron: "0 0 * * *"}]
-  # Allow manual workflow trigger
   workflow_dispatch:
-  # Run on commits to main/master branch
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -13,14 +10,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate GitHub Skyline 3D calendar
+      - name: Generate GitHub metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.svg
+          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: header, repositories
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year  # or 'half-year' for 6 months view
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages.indepth: yes
           plugin_languages.analysis_timeout: 15
