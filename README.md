@@ -67,7 +67,7 @@ I am always interested in collaborating - if you want to hire me or work on some
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShobhitSarkar/ShobhitSarkar/blob/generated/metrics.svg" alt="GitHub Metrics" />
+  <img src="https://github.com/ShobhitSarkar/ShobhitSarkar/blob/generated/metrics.svg"/>
 </p>
 
 
