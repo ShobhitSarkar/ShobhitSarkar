@@ -66,6 +66,11 @@ ______
   <img src="./metrics.plugin.isocalendar.svg" alt="GitHub Isometric Calendar">
 </p>
 
+<div align="center">
+  <img src="https://github.com/ShobhitSarkar/ShobhitSarkar/blob/generated/metrics.svg" alt="GitHub Metrics" />
+</div>
+
+
 
 
 
